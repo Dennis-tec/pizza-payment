@@ -1,0 +1,28 @@
+.pcontain{
+  background-color: lightgrey;
+  height: 100vh;
+  text-align: center;
+}
+.phead{
+  color: black;
+  text-align: center;
+  padding-top: 150px;
+}
+.or{
+  font-size: 20px;
+  color: green;
+  font-weight: bold;
+}
+#cvc{
+  width: 80px;
+}
+#code{
+  width: 110px;
+}
+#date{
+  width: 80px;
+}
+#pbtn{
+  background-color: skyblue;
+  width: 110px;
+}
