@@ -1,3 +1,4 @@
+$(document).ready(function(){
 $("#pbtn").click(function(event){
   event.preventDefault();
   var text =$("#text").val();
@@ -22,4 +23,5 @@ $("#pbtn").click(function(event){
   } else {
     alert("Your payment has been sent succefuly")
   }
+})
 })
