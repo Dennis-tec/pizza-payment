@@ -23,7 +23,7 @@ $("#pbtn").click(function(event){
     alert("Please Enter Your Postal Code!")
 
   } else {
-    alert("Your payment has been sent successfully")
+    alert("Invalid Card!")
     function pay(){
     }
   }
