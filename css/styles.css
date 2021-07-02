@@ -1,6 +1,8 @@
+body{
+  background-color: lightgrey;
+}
 .pcontain{
   background-color: lightgrey;
-  height: 100vh;
   text-align: center;
 }
 .phead{
@@ -20,7 +22,6 @@
   width: 110px;
 }
 #date{
-  width: 80px;
 }
 #pbtn{
   background-color: skyblue;
