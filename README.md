@@ -1,7 +1,7 @@
 # MAA PIZZA PAYMENT WEB APP
 #### Allows Maa Pizza Customers to pay for their orders, 27,6,2020.
 
-### **By [Dennis Yiaile](https://github.com/Dennis-tec)**
+#### **By [Dennis Yiaile](https://github.com/Dennis-tec)**
 
 #### Live Url:https://dennis-tec.github.io/pizza-payment/
 ### Description
@@ -18,7 +18,7 @@ This web application is for pizza customers to pay for their orders from Maa Piz
 ### Known Bugs
 So far there are no bugs known in this app. But if you come across one feel free to raise or even solve it. Feel free to help solving the issue.
 
-## Technologies used
+### Technologies used
 * HTML5
 * CSS3
 * JavaScript
