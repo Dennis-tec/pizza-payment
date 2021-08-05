@@ -10,7 +10,7 @@ This web application is for pizza customers to pay for their orders from Maa Piz
 ### Setup/Installation Requirements.
 * Browser( Google Chrome, Microsoft Edge, Opera Mini, Safari, and Firefox are recommended)
 * Internet
-* Laptop/or smartphone
+* Smartphone/Tablet/Laptop/iPhone/Computer.
 * Access it via this live link https://dennis-tec.github.io/pizza-payment/
 * Or have git and Github account.
 * Fork then clone git clone https://dennis-tec.github.io/pizza-payment/
@@ -26,7 +26,7 @@ So far there are no bugs known in this app. But if you come across one feel free
 * Bootstrap
 
 ### Support and contact details
-In case of any issue feel free to reach me via email at dyiaile@haverford.edu. You can also contribute in developing and improving the app.
+In case of any issue feel free to reach me via email at ykamakei6345@gmail.com. You can also contribute in developing and improving the app.
 
 ### License
-*[MIT](LICENSE)* Copyright(c)2020 **Dennis Yiaile**
+*[MIT](LICENSE)* Copyright(c)2021 **Dennis Yiaile**
